@@ -7,7 +7,7 @@ const AddItem = ({newItem,setNewItem,handleSubmit}) => {
         <label htmlFor="addItem">Add Item</label>
         <input
             autoFocus
-            id='addItem'
+            id='addItem here'
             type="text"
             placeholder='Add Item'
             value={newItem}
